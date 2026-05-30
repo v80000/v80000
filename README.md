@@ -1,4 +1,5 @@
 ## 👋 Hi, I’m building my career in cybersecurity
+My profile picture only gives a little insight into who I am – it’s been carefully crafted ;)
 
 🛡️ Junior penetration tester  
 🖥️ Sys-Admin  
