@@ -17,6 +17,10 @@
 
 💻 Practicing and learning through Hack The Box and TryHackMe as a hobby — improving every day, one challenge at a time. 🕶️
 
+🤖 I love training AI and improving my prompts every day for my automations.
+
+🦾 AI enthusiast, but not a fan of the companies behind it — data-hungry giants.
+
 ---
 
 ### 🕶️ AllSafe Privacy — Coming soon
