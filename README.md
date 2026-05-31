@@ -8,7 +8,9 @@
 🐧 Love Linux and open-source  
 🇪🇸 Spain  
 
+
 🚧 Profile under construction...  
+
 📁 I’ll be uploading all my projects soon.
 
 🪟 I hate Windows, but I know a lot about it because of my job, as I have to adapt to all systems ;)
