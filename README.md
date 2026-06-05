@@ -13,6 +13,8 @@
 
 📁 I’ll be uploading all my projects soon.
 
+🧠 Scripting (Bash, Python...)
+
 🪟 I hate Windows, but I know a lot about it because of my job, as I have to adapt to all systems ;)
 
 🌍 Fighting day in, day out for a free and private internet and systems.
