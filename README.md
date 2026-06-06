@@ -25,6 +25,8 @@
 
 🦾 AI enthusiast, but not a fan of the companies behind it — data-hungry giants.
 
+🗿 Learning Kubernetes.
+
 ---
 
 ### 🕶️ AllSafe Privacy — Coming soon
