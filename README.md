@@ -9,7 +9,7 @@
 🇪🇸 Spain  
 
 
-🚧 Profile under construction...  
+🚧 Profile GitHub under construction...  
 
 📁 I’ll be uploading all my projects soon.
 
