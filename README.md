@@ -1,5 +1,7 @@
 ## 👋 Hi, I’m building my career in cybersecurity
 
+📅 7 Years in the sector 
+
 🖼️ My profile picture only gives a little insight into who I am, it’s been carefully crafted ;)
 
 🛡️ Junior penetration tester  
