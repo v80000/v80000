@@ -33,7 +33,7 @@
 
 ### 🕶️ AllSafe Privacy — Coming soon
 
-My project, **TOTAL PRIVACY**:
+My project, **PRIVACY FIRST**:
 
 🧠 Comprehensive awareness, importance of privacy  
 🕵️ Digital footprint elimination  
